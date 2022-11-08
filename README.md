@@ -17,7 +17,7 @@ Happy Submissions :slightly_smiling_face:
 $ git clone https://github.com/<YOUR-GITHUB-USERNAME>//CodeChef-Solutions-C-gcc.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
-$ cd orkBook_CTSD_22SC1101
+$ cd CodeChef-Solutions-C-gcc
 
 # include all the latest changes from the remote repository
 $ git remote add upstream https://github.com/KoushikReddyB/CodeChef-Solutions-C-gcc
