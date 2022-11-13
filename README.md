@@ -1,4 +1,4 @@
-# CodeChef-Solutions-C-gcc
+# CodeChef-Solutions-C-gnu
  CodeChef solutions in C. 
  
 # Contribution is fun! :green_heart:
@@ -14,13 +14,13 @@ Happy Submissions :slightly_smiling_face:
 
 ```bash
 # clone the repository to your local machine
-$ git clone https://github.com/<YOUR-GITHUB-USERNAME>//CodeChef-Solutions-C-gcc.git
+$ git clone https://github.com/<YOUR-GITHUB-USERNAME>//CodeChef-Solutions-C-gnu.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
-$ cd CodeChef-Solutions-C-gcc
+$ cd CodeChef-Solutions-C-gnu
 
 # include all the latest changes from the remote repository
-$ git remote add upstream https://github.com/KoushikReddyB/CodeChef-Solutions-C-gcc
+$ git remote add upstream https://github.com/KoushikReddyB/CodeChef-Solutions-C-gnu
 $ git fetch upstream
 $ git merge upstream/master
 ```
