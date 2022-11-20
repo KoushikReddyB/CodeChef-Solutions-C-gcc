@@ -13,7 +13,7 @@ Output Format
 This section tells us the format in which your program should give the output
 For each test case, add A and B and display the sum in a new line.
 
-Everything your program prints is considered “output”, so if you output some debugging statements like “Please enter T”, this will be considered as part of your answer, and because it does not satisfy the output format, it will be marked wrong, even if your answer is otherwise correct! */
+Everything your program prints is considered ï¿½outputï¿½, so if you output some debugging statements like ï¿½Please enter Tï¿½, this will be considered as part of your answer, and because it does not satisfy the output format, it will be marked wrong, even if your answer is otherwise correct! */
 
 #include <stdio.h> 
 
